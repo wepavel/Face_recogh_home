@@ -3,7 +3,6 @@ from selenium.webdriver.chrome.options import Options
 import time
 import cv2
 import numpy as np
-# import face_recognition
 import imutils
 from imutils import paths
 import os
